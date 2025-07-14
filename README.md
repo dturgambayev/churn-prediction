@@ -37,8 +37,7 @@ churn-prediction/
 ├── data/ # CSV с данными (в .gitignore)
 ├── 1_telco_eda.ipynb # EDA, очистка, визуализация
 ├── 2_telco_modeling.ipynb # Обучение моделей, метрики
-├── README.md # Описание проекта
-└── requirements.txt # Зависимости (опц.)
+└── README.md # Описание проекта
 
 
 ---
